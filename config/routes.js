@@ -9,6 +9,6 @@
  */
 
 module.exports.routes = {
-
-
+"POST /factura": "FacturaController.addFactura",
+"POST /promocion": "PromocionController.addPromocion"
 };

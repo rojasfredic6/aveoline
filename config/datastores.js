@@ -49,7 +49,6 @@ module.exports.datastores = {
     *                                                                          *
     ***************************************************************************/
     adapter: 'sails-postgresql',
-    url: 'postgresql://Fredic Yohany:androide18@postgresql-57430-0.cloudclusters.net:16996/aveoline',
-
+    url: 'postgres://Fredic:androide18@postgresql-57430-0.cloudclusters.net:16996/aveonline'
   },
 };
